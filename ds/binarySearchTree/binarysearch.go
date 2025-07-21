@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+// time complixity
+
+// how many time to take to completed to finish work
+// O (log n )
+
 type tree struct {
 	val   int
 	left  *tree
