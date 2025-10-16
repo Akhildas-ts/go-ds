@@ -1,5 +1,1 @@
-# go-basic
-# go-basic
-# go-basic
-# go-basic
-# go-ds
+# go lang - DS Interview question 
